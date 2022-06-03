@@ -8,7 +8,7 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kate028.visitor-badge)
-[![Linkedin](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/])(https://www.linkedin.com/in/Kate028/](https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/)
+[![Linkedin](https://img.shields.io/badge/-Kate028-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/])(https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/)
 
 #### -  🌿  I’m currently data science student working on Python Projects.
 
