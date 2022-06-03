@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="220px" width="350px" > 
+  <img align="right" src="[https://user-images.githubusercontent.com/72349558/117948607-e95d3780-b32e-11eb-9463-c6223338e265.gif" height="220px" width="350px" > 
   </a>
 </p>
 
