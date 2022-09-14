@@ -10,11 +10,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SaiSharanyaY.visitor-badge)
 [![Linkedin](https://img.shields.io/badge/-SaiSharanyaY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/)](https://www.linkedin.com/in/sai-sharanya-y-a9b6571b5/)
 
-#### -  🌿  I’m currently data science student working on Python Projects.
+#### -  🌿  I’m currently a data science student.
 
-#### -  🌱  I am data science head at codecademy JU Chapter, conducted many events on python and data science.
+#### -  🌱  I am chapter lead and data science head at codecademy JU Chapter, conducted many events on python and data science.
 
-#### -  🍁  I’m currently learning: Data Analysis, Machine Learning and also am a penetration testing enthusiast.
+#### -  🍁  I’m currently learning: Data Analytics, Data Science, Machine Learning, Deep Learning.
 
 #### -  🌸  Hobbies: Playing Chess, Meditation, long walks, Reading books.
 
